@@ -1,5 +1,5 @@
 # sql-challenge
-Materials for the SQUL Module 9 challenge for the BCS Data Analytics boot camp
+Materials for the SQL Module 9 challenge for the BCS Data Analytics boot camp
 
 
 Module 9 Challenge
